@@ -1,0 +1,5 @@
+Nucleotide,patient,time_10,n_10,Nucleotide,patient,time_14,n_14
+G 21249 A,patientX,10,1,G 21249 A,patientX,14,4
+A 21323 G,patientX,10,1,A 21323 G,patientX,14,4
+A 21332 G,patientX,10,1,A 21332 G,patientX,14,4
+,,,,T 21426 C,patientX,14,4

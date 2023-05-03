@@ -1,0 +1,443 @@
+Gene,POS,REF,ALT,Effect,Protein,patient,time,aa_ref,Position,aa_mut,region,n,nmax,percentage
+ORF1ab,21249,G,A,synonymous_variant,Val6995Val,patientY,10,Val,6995,Val,Not Spike,4,240,0.016666667
+ORF1ab,21323,A,G,missense_variant,Tyr7020Cys,patientY,10,Tyr,7020,Cys,Not Spike,4,240,0.016666667
+ORF1ab,21332,A,G,missense_variant,His7023Arg,patientY,10,His,7023,Arg,Not Spike,4,240,0.016666667
+ORF1ab,21426,T,C,synonymous_variant,Gly7054Gly,patientY,10,Gly,7054,Gly,Not Spike,4,240,0.016666667
+ORF1ab,21479,T,C,missense_variant,Leu7072Pro,patientY,10,Leu,7072,Pro,Not Spike,4,240,0.016666667
+ORF1ab,21501,A,G,missense_variant,Ile7079Met,patientY,10,Ile,7079,Met,Not Spike,4,240,0.016666667
+ORF1ab,21517,A,G,missense_variant,Arg7085Gly,patientY,10,Arg,7085,Gly,Not Spike,4,240,0.016666667
+ORF1ab,21538,G,A,missense_variant,Val7092Ile,patientY,10,Val,7092,Ile,Not Spike,4,240,0.016666667
+S,21575,C,T,missense_variant,Leu5Phe,patientY,10,Leu,5,Phe,receptor binding motif,225,240,0.9375
+S,21600,G,T,missense_variant,Ser13Ile,patientY,10,Ser,13,Ile,NTD,240,240,1
+S,21619,A,G,synonymous_variant,Thr19Thr,patientY,10,Thr,19,Thr,NTD,4,240,0.016666667
+S,21624,G,A,missense_variant,Arg21Lys,patientY,10,Arg,21,Lys,NTD,4,240,0.016666667
+S,21639,C,T,missense_variant,Pro26Leu,patientY,10,Pro,26,Leu,NTD,25,240,0.104166667
+S,21718,G,A,synonymous_variant,Gln52Gln,patientY,10,Gln,52,Gln,RBD,4,240,0.016666667
+S,21724,G,T,missense_variant,Leu54Phe,patientY,10,Leu,54,Phe,RBD,4,240,0.016666667
+S,21730,A,G,synonymous_variant,Leu56Leu,patientY,10,Leu,56,Leu,no region,169,240,0.704166667
+S,21742,C,T,synonymous_variant,Ser60Ser,patientY,10,Ser,60,Ser,no region,16,240,0.066666667
+S,21762,C,T,missense_variant,Ala67Val,patientY,10,Ala,67,Val,no region,4,240,0.016666667
+S,21773,T,C,missense_variant,Ser71Pro,patientY,10,Ser,71,Pro,no region,4,240,0.016666667
+S,21781,C,A,synonymous_variant,Thr73Thr,patientY,10,Thr,73,Thr,no region,4,240,0.016666667
+S,21846,C,T,missense_variant,Thr95Ile,patientY,10,Thr,95,Ile,no region,81,240,0.3375
+S,21849,A,G,missense_variant,Glu96Gly,patientY,10,Glu,96,Gly,no region,4,240,0.016666667
+S,21895,T,C,synonymous_variant,Asp111Asp,patientY,10,Asp,111,Asp,no region,4,240,0.016666667
+S,21920,G,T,missense_variant,Val120Phe,patientY,10,Val,120,Phe,heptad repeat 2,4,240,0.016666667
+S,21980,T,C,missense_variant,Phe140Leu,patientY,10,Phe,140,Leu,NTD,4,240,0.016666667
+S,22017,G,A,stop_gained,Trp152*,patientY,10,Trp,152,,NTD,4,240,0.016666667
+S,22018,G,C,missense_variant,Trp152Cys,patientY,10,Trp,152,Cys,NTD,4,240,0.016666667
+S,22018,G,T,missense_variant,Trp152Cys,patientY,10,Trp,152,Cys,NTD,240,240,1
+S,22029,A,G,missense_variant,Glu156Gly,patientY,10,Glu,156,Gly,NTD,9,240,0.0375
+S,22051,G,A,synonymous_variant,Ala163Ala,patientY,10,Ala,163,Ala,NTD,4,240,0.016666667
+S,22061,A,T,missense_variant,Thr167Ser,patientY,10,Thr,167,Ser,NTD,4,240,0.016666667
+S,22062,C,T,missense_variant,Thr167Ile,patientY,10,Thr,167,Ile,NTD,4,240,0.016666667
+S,22084,T,C,synonymous_variant,Pro174Pro,patientY,10,Pro,174,Pro,NTD,4,240,0.016666667
+S,22103,G,A,missense_variant,Gly181Arg,patientY,10,Gly,181,Arg,NTD,4,240,0.016666667
+S,22104,G,A,missense_variant,Gly181Glu,patientY,10,Gly,181,Glu,NTD,4,240,0.016666667
+S,22107,A,G,missense_variant,Lys182Arg,patientY,10,Lys,182,Arg,NTD,4,240,0.016666667
+S,22141,G,T,synonymous_variant,Val193Val,patientY,10,Val,193,Val,NTD,4,240,0.016666667
+S,22188,C,A,missense_variant,Pro209His,patientY,10,Pro,209,His,NTD,4,240,0.016666667
+S,22205,G,C,missense_variant,Asp215His,patientY,10,Asp,215,His,NTD,4,240,0.016666667
+S,22221,T,C,missense_variant,Phe220Ser,patientY,10,Phe,220,Ser,NTD,4,240,0.016666667
+S,22253,A,G,missense_variant,Ile231Val,patientY,10,Ile,231,Val,NTD,4,240,0.016666667
+S,22263,A,G,missense_variant,Asn234Ser,patientY,10,Asn,234,Ser,NTD,4,240,0.016666667
+S,22313,C,T,missense_variant,Pro251Ser,patientY,10,Pro,251,Ser,NTD,4,240,0.016666667
+S,22326,C,T,missense_variant,Ser255Phe,patientY,10,Ser,255,Phe,NTD,49,240,0.204166667
+S,22385,T,G,missense_variant,Phe275Val,patientY,10,Phe,275,Val,NTD,4,240,0.016666667
+S,22413,C,T,missense_variant,Thr284Ile,patientY,10,Thr,284,Ile,NTD,49,240,0.204166667
+S,22447,T,C,synonymous_variant,Pro295Pro,patientY,10,Pro,295,Pro,NTD,4,240,0.016666667
+S,22458,C,T,missense_variant,Thr299Ile,patientY,10,Thr,299,Ile,NTD,81,240,0.3375
+S,22463,T,C,missense_variant,Cys301Arg,patientY,10,Cys,301,Arg,NTD,4,240,0.016666667
+S,22471,G,A,synonymous_variant,Leu303Leu,patientY,10,Leu,303,Leu,NTD,4,240,0.016666667
+S,22480,C,T,synonymous_variant,Phe306Phe,patientY,10,Phe,306,Phe,no region,4,240,0.016666667
+S,22487,G,C,missense_variant,Glu309Gln,patientY,10,Glu,309,Gln,no region,4,240,0.016666667
+S,22706,G,A,missense_variant,Val382Met,patientY,10,Val,382,Met,RBD,4,240,0.016666667
+S,22725,A,G,missense_variant,Asn388Ser,patientY,10,Asn,388,Ser,RBD,4,240,0.016666667
+S,22738,T,C,synonymous_variant,Phe392Phe,patientY,10,Phe,392,Phe,RBD,4,240,0.016666667
+S,22784,A,C,synonymous_variant,Arg408Arg,patientY,10,Arg,408,Arg,RBD,4,240,0.016666667
+S,22786,A,G,synonymous_variant,Arg408Arg,patientY,10,Arg,408,Arg,RBD,4,240,0.016666667
+S,22792,C,T,synonymous_variant,Ile410Ile,patientY,10,Ile,410,Ile,RBD,4,240,0.016666667
+S,22834,A,G,synonymous_variant,Lys424Lys,patientY,10,Lys,424,Lys,RBD,4,240,0.016666667
+S,22850,A,G,missense_variant,Thr430Ala,patientY,10,Thr,430,Ala,RBD,4,240,0.016666667
+S,22870,G,A,stop_gained,Trp436*,patientY,10,Trp,436,,RBD,4,240,0.016666667
+S,22917,T,G,missense_variant,Leu452Arg,patientY,10,Leu,452,Arg,receptor binding motif,240,240,1
+S,23017,T,C,synonymous_variant,Gly485Gly,patientY,10,Gly,485,Gly,receptor binding motif,9,240,0.0375
+S,23060,A,T,missense_variant,Thr500Ser,patientY,10,Thr,500,Ser,receptor binding motif,4,240,0.016666667
+S,23104,T,C,synonymous_variant,Ser514Ser,patientY,10,Ser,514,Ser,RBD,9,240,0.0375
+S,23112,T,C,missense_variant,Leu517Pro,patientY,10,Leu,517,Pro,RBD,4,240,0.016666667
+S,23155,T,C,synonymous_variant,Thr531Thr,patientY,10,Thr,531,Thr,RBD,240,240,1
+S,23185,C,T,synonymous_variant,Phe541Phe,patientY,10,Phe,541,Phe,RBD,4,240,0.016666667
+S,23202,C,T,missense_variant,Thr547Ile,patientY,10,Thr,547,Ile,no region,9,240,0.0375
+S,23205,G,A,missense_variant,Gly548Asp,patientY,10,Gly,548,Asp,no region,4,240,0.016666667
+S,23229,A,C,missense_variant,Asn556Thr,patientY,10,Asn,556,Thr,no region,4,240,0.016666667
+S,23270,G,A,missense_variant,Ala570Thr,patientY,10,Ala,570,Thr,no region,4,240,0.016666667
+S,23301,A,G,missense_variant,Gln580Arg,patientY,10,Gln,580,Arg,no region,4,240,0.016666667
+S,23403,A,G,missense_variant,Asp614Gly,patientY,10,Asp,614,Gly,no region,240,240,1
+S,23411,T,G,missense_variant,Cys617Gly,patientY,10,Cys,617,Gly,no region,4,240,0.016666667
+S,23416,A,T,synonymous_variant,Thr618Thr,patientY,10,Thr,618,Thr,no region,4,240,0.016666667
+S,23421,T,C,missense_variant,Val620Ala,patientY,10,Val,620,Ala,no region,4,240,0.016666667
+S,23464,T,C,synonymous_variant,Arg634Arg,patientY,10,Arg,634,Arg,no region,4,240,0.016666667
+S,23492,C,T,stop_gained,Gln644*,patientY,10,Gln,644,,no region,4,240,0.016666667
+S,23525,C,T,missense_variant,His655Tyr,patientY,10,His,655,Tyr,no region,4,240,0.016666667
+S,23539,A,G,synonymous_variant,Ser659Ser,patientY,10,Ser,659,Ser,no region,4,240,0.016666667
+S,23553,T,C,missense_variant,Ile664Thr,patientY,10,Ile,664,Thr,no region,4,240,0.016666667
+S,23556,C,T,missense_variant,Pro665Leu,patientY,10,Pro,665,Leu,no region,4,240,0.016666667
+S,23585,C,T,stop_gained,Gln675*,patientY,10,Gln,675,,S1/S2 cleavage region,4,240,0.016666667
+S,23593,G,C,missense_variant,Gln677His,patientY,10,Gln,677,His,S1/S2 cleavage region,36,240,0.15
+S,23632,A,G,synonymous_variant,Gln690Gln,patientY,10,Gln,690,Gln,S1/S2 cleavage region,4,240,0.016666667
+S,23664,C,T,missense_variant,Ala701Val,patientY,10,Ala,701,Val,S1/S2 cleavage region,43,240,0.179166667
+S,23683,C,T,synonymous_variant,Tyr707Tyr,patientY,10,Tyr,707,Tyr,S1/S2 cleavage region,4,240,0.016666667
+S,23693,T,C,missense_variant,Ser711Pro,patientY,10,Ser,711,Pro,no region,4,240,0.016666667
+S,23717,A,G,missense_variant,Thr719Ala,patientY,10,Thr,719,Ala,no region,4,240,0.016666667
+S,23752,T,C,synonymous_variant,Ser730Ser,patientY,10,Ser,730,Ser,no region,4,240,0.016666667
+S,23766,C,G,stop_gained,Ser735*,patientY,10,Ser,735,,no region,4,240,0.016666667
+S,23817,T,C,missense_variant,Leu752Pro,patientY,10,Leu,752,Pro,no region,4,240,0.016666667
+S,23822,T,C,synonymous_variant,Leu754Leu,patientY,10,Leu,754,Leu,no region,4,240,0.016666667
+S,23914,A,G,synonymous_variant,Gln784Gln,patientY,10,Gln,784,Gln,no region,4,240,0.016666667
+S,23923,A,G,synonymous_variant,Gln787Gln,patientY,10,Gln,787,Gln,no region,4,240,0.016666667
+S,23947,A,C,missense_variant,Lys795Asn,patientY,10,Lys,795,Asn,fusion peptide,4,240,0.016666667
+S,23995,A,G,synonymous_variant,Lys811Lys,patientY,10,Lys,811,Lys,no region,4,240,0.016666667
+S,23997,C,T,missense_variant,Pro812Leu,patientY,10,Pro,812,Leu,no region,4,240,0.016666667
+S,23998,A,G,synonymous_variant,Pro812Pro,patientY,10,Pro,812,Pro,no region,4,240,0.016666667
+S,24001,C,T,synonymous_variant,Ser813Ser,patientY,10,Ser,813,Ser,no region,4,240,0.016666667
+S,24027,T,C,missense_variant,Leu822Pro,patientY,10,Leu,822,Pro,internal fusion peptide,4,240,0.016666667
+S,24199,G,A,synonymous_variant,Ala879Ala,patientY,10,Ala,879,Ala,no region,4,240,0.016666667
+S,24277,G,T,missense_variant,Arg905Ser,patientY,10,Arg,905,Ser,no region,4,240,0.016666667
+S,24349,T,C,synonymous_variant,Ser929Ser,patientY,10,Ser,929,Ser,heptad repeat 1,123,240,0.5125
+S,24367,A,G,synonymous_variant,Gln935Gln,patientY,10,Gln,935,Gln,no region,9,240,0.0375
+S,24370,C,A,missense_variant,Asp936Glu,patientY,10,Asp,936,Glu,no region,4,240,0.016666667
+S,24378,C,T,missense_variant,Ser939Phe,patientY,10,Ser,939,Phe,no region,64,240,0.266666667
+S,24379,T,C,synonymous_variant,Ser939Ser,patientY,10,Ser,939,Ser,no region,4,240,0.016666667
+S,24397,T,G,synonymous_variant,Leu945Leu,patientY,10,Leu,945,Leu,no region,4,240,0.016666667
+S,24463,C,T,synonymous_variant,Ser967Ser,patientY,10,Ser,967,Ser,no region,4,240,0.016666667
+S,24466,C,A,synonymous_variant,Ser968Ser,patientY,10,Ser,968,Ser,no region,4,240,0.016666667
+S,24504,T,C,missense_variant,Leu981Pro,patientY,10,Leu,981,Pro,no region,4,240,0.016666667
+S,24576,A,G,missense_variant,Gln1005Arg,patientY,10,Gln,1005,Arg,no region,4,240,0.016666667
+S,24579,C,T,missense_variant,Thr1006Ile,patientY,10,Thr,1006,Ile,no region,4,240,0.016666667
+S,24608,G,A,missense_variant,Ala1016Thr,patientY,10,Ala,1016,Thr,no region,4,240,0.016666667
+S,24706,T,C,synonymous_variant,His1048His,patientY,10,His,1048,His,no region,16,240,0.066666667
+S,24775,A,C,missense_variant,Gln1071His,patientY,10,Gln,1071,His,no region,4,240,0.016666667
+S,24776,G,A,missense_variant,Glu1072Lys,patientY,10,Glu,1072,Lys,no region,4,240,0.016666667
+S,24813,A,C,missense_variant,Asp1084Ala,patientY,10,Asp,1084,Ala,no region,4,240,0.016666667
+S,24820,A,G,synonymous_variant,Lys1086Lys,patientY,10,Lys,1086,Lys,no region,4,240,0.016666667
+S,24845,T,C,missense_variant,Phe1095Leu,patientY,10,Phe,1095,Leu,no region,4,240,0.016666667
+S,24881,A,G,missense_variant,Arg1107Gly,patientY,10,Arg,1107,Gly,no region,4,240,0.016666667
+S,24895,A,C,missense_variant,Glu1111Asp,patientY,10,Glu,1111,Asp,no region,4,240,0.016666667
+S,24912,C,T,missense_variant,Thr1117Ile,patientY,10,Thr,1117,Ile,no region,4,240,0.016666667
+S,24933,G,T,missense_variant,Gly1124Val,patientY,10,Gly,1124,Val,no region,4,240,0.016666667
+S,24960,T,C,missense_variant,Val1133Ala,patientY,10,Val,1133,Ala,no region,4,240,0.016666667
+S,24985,G,A,synonymous_variant,Leu1141Leu,patientY,10,Leu,1141,Leu,no region,4,240,0.016666667
+S,25006,C,T,synonymous_variant,Phe1148Phe,patientY,10,Phe,1148,Phe,no region,81,240,0.3375
+S,25016,T,C,synonymous_variant,Leu1152Leu,patientY,10,Leu,1152,Leu,no region,4,240,0.016666667
+S,25046,C,T,missense_variant,Pro1162Ser,patientY,10,Pro,1162,Ser,heptad repeat 2,16,240,0.066666667
+S,25048,A,T,synonymous_variant,Pro1162Pro,patientY,10,Pro,1162,Pro,heptad repeat 2,9,240,0.0375
+S,25063,T,C,synonymous_variant,Gly1167Gly,patientY,10,Gly,1167,Gly,heptad repeat 2,4,240,0.016666667
+S,25078,T,A,synonymous_variant,Ile1172Ile,patientY,10,Ile,1172,Ile,heptad repeat 2,4,240,0.016666667
+S,25092,T,A,missense_variant,Val1177Glu,patientY,10,Val,1177,Glu,heptad repeat 2,4,240,0.016666667
+S,25099,T,C,synonymous_variant,Ile1179Ile,patientY,10,Ile,1179,Ile,heptad repeat 2,4,240,0.016666667
+S,25162,C,A,synonymous_variant,Leu1200Leu,patientY,10,Leu,1200,Leu,heptad repeat 2,9,240,0.0375
+S,25163,C,A,missense_variant,Gln1201Lys,patientY,10,Gln,1201,Lys,heptad repeat 2,9,240,0.0375
+S,25181,G,T,stop_gained,Glu1207*,patientY,10,Glu,1207,,no region,4,240,0.016666667
+S,25184,C,T,stop_gained,Gln1208*,patientY,10,Gln,1208,,no region,4,240,0.016666667
+S,25201,A,G,synonymous_variant,Pro1213Pro,patientY,10,Pro,1213,Pro,no region,4,240,0.016666667
+S,25301,T,C,missense_variant,Cys1247Arg,patientY,10,Cys,1247,Arg,no region,4,240,0.016666667
+S,25344,C,T,missense_variant,Ser1261Phe,patientY,10,Ser,1261,Phe,no region,4,240,0.016666667
+S,25345,T,A,synonymous_variant,Ser1261Ser,patientY,10,Ser,1261,Ser,no region,4,240,0.016666667
+S,25346,G,C,missense_variant,Glu1262Gln,patientY,10,Glu,1262,Gln,no region,4,240,0.016666667
+S,25347,A,G,missense_variant,Glu1262Gly,patientY,10,Glu,1262,Gly,no region,4,240,0.016666667
+S,25348,G,A,synonymous_variant,Glu1262Glu,patientY,10,Glu,1262,Glu,no region,4,240,0.016666667
+ORF1ab,21249,G,A,synonymous_variant,Val6995Val,patientY,14,Val,6995,Val,Not Spike,4,240,0.016666667
+ORF1ab,21323,A,G,missense_variant,Tyr7020Cys,patientY,14,Tyr,7020,Cys,Not Spike,4,240,0.016666667
+ORF1ab,21332,A,G,missense_variant,His7023Arg,patientY,14,His,7023,Arg,Not Spike,4,240,0.016666667
+ORF1ab,21426,T,C,synonymous_variant,Gly7054Gly,patientY,14,Gly,7054,Gly,Not Spike,4,240,0.016666667
+ORF1ab,21479,T,C,missense_variant,Leu7072Pro,patientY,14,Leu,7072,Pro,Not Spike,4,240,0.016666667
+ORF1ab,21501,A,G,missense_variant,Ile7079Met,patientY,14,Ile,7079,Met,Not Spike,4,240,0.016666667
+ORF1ab,21517,A,G,missense_variant,Arg7085Gly,patientY,14,Arg,7085,Gly,Not Spike,4,240,0.016666667
+ORF1ab,21538,G,A,missense_variant,Val7092Ile,patientY,14,Val,7092,Ile,Not Spike,4,240,0.016666667
+S,21575,C,T,missense_variant,Leu5Phe,patientY,14,Leu,5,Phe,receptor binding motif,225,240,0.9375
+S,21600,G,T,missense_variant,Ser13Ile,patientY,14,Ser,13,Ile,NTD,240,240,1
+S,21619,A,G,synonymous_variant,Thr19Thr,patientY,14,Thr,19,Thr,NTD,4,240,0.016666667
+S,21624,G,A,missense_variant,Arg21Lys,patientY,14,Arg,21,Lys,NTD,4,240,0.016666667
+S,21639,C,T,missense_variant,Pro26Leu,patientY,14,Pro,26,Leu,NTD,25,240,0.104166667
+S,21718,G,A,synonymous_variant,Gln52Gln,patientY,14,Gln,52,Gln,RBD,4,240,0.016666667
+S,21724,G,T,missense_variant,Leu54Phe,patientY,14,Leu,54,Phe,RBD,4,240,0.016666667
+S,21730,A,G,synonymous_variant,Leu56Leu,patientY,14,Leu,56,Leu,no region,169,240,0.704166667
+S,21742,C,T,synonymous_variant,Ser60Ser,patientY,14,Ser,60,Ser,no region,16,240,0.066666667
+S,21762,C,T,missense_variant,Ala67Val,patientY,14,Ala,67,Val,no region,4,240,0.016666667
+S,21773,T,C,missense_variant,Ser71Pro,patientY,14,Ser,71,Pro,no region,4,240,0.016666667
+S,21781,C,A,synonymous_variant,Thr73Thr,patientY,14,Thr,73,Thr,no region,4,240,0.016666667
+S,21846,C,T,missense_variant,Thr95Ile,patientY,14,Thr,95,Ile,no region,81,240,0.3375
+S,21849,A,G,missense_variant,Glu96Gly,patientY,14,Glu,96,Gly,no region,4,240,0.016666667
+S,21895,T,C,synonymous_variant,Asp111Asp,patientY,14,Asp,111,Asp,no region,4,240,0.016666667
+S,21920,G,T,missense_variant,Val120Phe,patientY,14,Val,120,Phe,heptad repeat 2,4,240,0.016666667
+S,21980,T,C,missense_variant,Phe140Leu,patientY,14,Phe,140,Leu,NTD,4,240,0.016666667
+S,22017,G,A,stop_gained,Trp152*,patientY,14,Trp,152,,NTD,4,240,0.016666667
+S,22018,G,C,missense_variant,Trp152Cys,patientY,14,Trp,152,Cys,NTD,4,240,0.016666667
+S,22018,G,T,missense_variant,Trp152Cys,patientY,14,Trp,152,Cys,NTD,240,240,1
+S,22029,A,G,missense_variant,Glu156Gly,patientY,14,Glu,156,Gly,NTD,9,240,0.0375
+S,22051,G,A,synonymous_variant,Ala163Ala,patientY,14,Ala,163,Ala,NTD,4,240,0.016666667
+S,22061,A,T,missense_variant,Thr167Ser,patientY,14,Thr,167,Ser,NTD,4,240,0.016666667
+S,22062,C,T,missense_variant,Thr167Ile,patientY,14,Thr,167,Ile,NTD,4,240,0.016666667
+S,22084,T,C,synonymous_variant,Pro174Pro,patientY,14,Pro,174,Pro,NTD,4,240,0.016666667
+S,22103,G,A,missense_variant,Gly181Arg,patientY,14,Gly,181,Arg,NTD,4,240,0.016666667
+S,22104,G,A,missense_variant,Gly181Glu,patientY,14,Gly,181,Glu,NTD,4,240,0.016666667
+S,22107,A,G,missense_variant,Lys182Arg,patientY,14,Lys,182,Arg,NTD,4,240,0.016666667
+S,22141,G,T,synonymous_variant,Val193Val,patientY,14,Val,193,Val,NTD,4,240,0.016666667
+S,22188,C,A,missense_variant,Pro209His,patientY,14,Pro,209,His,NTD,4,240,0.016666667
+S,22205,G,C,missense_variant,Asp215His,patientY,14,Asp,215,His,NTD,4,240,0.016666667
+S,22221,T,C,missense_variant,Phe220Ser,patientY,14,Phe,220,Ser,NTD,4,240,0.016666667
+S,22253,A,G,missense_variant,Ile231Val,patientY,14,Ile,231,Val,NTD,4,240,0.016666667
+S,22263,A,G,missense_variant,Asn234Ser,patientY,14,Asn,234,Ser,NTD,4,240,0.016666667
+S,22313,C,T,missense_variant,Pro251Ser,patientY,14,Pro,251,Ser,NTD,4,240,0.016666667
+S,22326,C,T,missense_variant,Ser255Phe,patientY,14,Ser,255,Phe,NTD,49,240,0.204166667
+S,22385,T,G,missense_variant,Phe275Val,patientY,14,Phe,275,Val,NTD,4,240,0.016666667
+S,22413,C,T,missense_variant,Thr284Ile,patientY,14,Thr,284,Ile,NTD,49,240,0.204166667
+S,22447,T,C,synonymous_variant,Pro295Pro,patientY,14,Pro,295,Pro,NTD,4,240,0.016666667
+S,22458,C,T,missense_variant,Thr299Ile,patientY,14,Thr,299,Ile,NTD,81,240,0.3375
+S,22463,T,C,missense_variant,Cys301Arg,patientY,14,Cys,301,Arg,NTD,4,240,0.016666667
+S,22471,G,A,synonymous_variant,Leu303Leu,patientY,14,Leu,303,Leu,NTD,4,240,0.016666667
+S,22480,C,T,synonymous_variant,Phe306Phe,patientY,14,Phe,306,Phe,no region,4,240,0.016666667
+S,22487,G,C,missense_variant,Glu309Gln,patientY,14,Glu,309,Gln,no region,4,240,0.016666667
+S,22706,G,A,missense_variant,Val382Met,patientY,14,Val,382,Met,RBD,4,240,0.016666667
+S,22725,A,G,missense_variant,Asn388Ser,patientY,14,Asn,388,Ser,RBD,4,240,0.016666667
+S,22738,T,C,synonymous_variant,Phe392Phe,patientY,14,Phe,392,Phe,RBD,4,240,0.016666667
+S,22784,A,C,synonymous_variant,Arg408Arg,patientY,14,Arg,408,Arg,RBD,4,240,0.016666667
+S,22786,A,G,synonymous_variant,Arg408Arg,patientY,14,Arg,408,Arg,RBD,4,240,0.016666667
+S,22792,C,T,synonymous_variant,Ile410Ile,patientY,14,Ile,410,Ile,RBD,4,240,0.016666667
+S,22834,A,G,synonymous_variant,Lys424Lys,patientY,14,Lys,424,Lys,RBD,4,240,0.016666667
+S,22850,A,G,missense_variant,Thr430Ala,patientY,14,Thr,430,Ala,RBD,4,240,0.016666667
+S,22870,G,A,stop_gained,Trp436*,patientY,14,Trp,436,,RBD,4,240,0.016666667
+S,22917,T,G,missense_variant,Leu452Arg,patientY,14,Leu,452,Arg,receptor binding motif,240,240,1
+S,23017,T,C,synonymous_variant,Gly485Gly,patientY,14,Gly,485,Gly,receptor binding motif,9,240,0.0375
+S,23060,A,T,missense_variant,Thr500Ser,patientY,14,Thr,500,Ser,receptor binding motif,4,240,0.016666667
+S,23104,T,C,synonymous_variant,Ser514Ser,patientY,14,Ser,514,Ser,RBD,9,240,0.0375
+S,23112,T,C,missense_variant,Leu517Pro,patientY,14,Leu,517,Pro,RBD,4,240,0.016666667
+S,23155,T,C,synonymous_variant,Thr531Thr,patientY,14,Thr,531,Thr,RBD,240,240,1
+S,23185,C,T,synonymous_variant,Phe541Phe,patientY,14,Phe,541,Phe,RBD,4,240,0.016666667
+S,23202,C,T,missense_variant,Thr547Ile,patientY,14,Thr,547,Ile,no region,9,240,0.0375
+S,23205,G,A,missense_variant,Gly548Asp,patientY,14,Gly,548,Asp,no region,4,240,0.016666667
+S,23229,A,C,missense_variant,Asn556Thr,patientY,14,Asn,556,Thr,no region,4,240,0.016666667
+S,23270,G,A,missense_variant,Ala570Thr,patientY,14,Ala,570,Thr,no region,4,240,0.016666667
+S,23301,A,G,missense_variant,Gln580Arg,patientY,14,Gln,580,Arg,no region,4,240,0.016666667
+S,23403,A,G,missense_variant,Asp614Gly,patientY,14,Asp,614,Gly,no region,240,240,1
+S,23411,T,G,missense_variant,Cys617Gly,patientY,14,Cys,617,Gly,no region,4,240,0.016666667
+S,23416,A,T,synonymous_variant,Thr618Thr,patientY,14,Thr,618,Thr,no region,4,240,0.016666667
+S,23421,T,C,missense_variant,Val620Ala,patientY,14,Val,620,Ala,no region,4,240,0.016666667
+S,23464,T,C,synonymous_variant,Arg634Arg,patientY,14,Arg,634,Arg,no region,4,240,0.016666667
+S,23492,C,T,stop_gained,Gln644*,patientY,14,Gln,644,,no region,4,240,0.016666667
+S,23525,C,T,missense_variant,His655Tyr,patientY,14,His,655,Tyr,no region,4,240,0.016666667
+S,23539,A,G,synonymous_variant,Ser659Ser,patientY,14,Ser,659,Ser,no region,4,240,0.016666667
+S,23553,T,C,missense_variant,Ile664Thr,patientY,14,Ile,664,Thr,no region,4,240,0.016666667
+S,23556,C,T,missense_variant,Pro665Leu,patientY,14,Pro,665,Leu,no region,4,240,0.016666667
+S,23585,C,T,stop_gained,Gln675*,patientY,14,Gln,675,,S1/S2 cleavage region,4,240,0.016666667
+S,23593,G,C,missense_variant,Gln677His,patientY,14,Gln,677,His,S1/S2 cleavage region,36,240,0.15
+S,23632,A,G,synonymous_variant,Gln690Gln,patientY,14,Gln,690,Gln,S1/S2 cleavage region,4,240,0.016666667
+S,23664,C,T,missense_variant,Ala701Val,patientY,14,Ala,701,Val,S1/S2 cleavage region,43,240,0.179166667
+S,23683,C,T,synonymous_variant,Tyr707Tyr,patientY,14,Tyr,707,Tyr,S1/S2 cleavage region,4,240,0.016666667
+S,23693,T,C,missense_variant,Ser711Pro,patientY,14,Ser,711,Pro,no region,4,240,0.016666667
+S,23717,A,G,missense_variant,Thr719Ala,patientY,14,Thr,719,Ala,no region,4,240,0.016666667
+S,23752,T,C,synonymous_variant,Ser730Ser,patientY,14,Ser,730,Ser,no region,4,240,0.016666667
+S,23766,C,G,stop_gained,Ser735*,patientY,14,Ser,735,,no region,4,240,0.016666667
+S,23817,T,C,missense_variant,Leu752Pro,patientY,14,Leu,752,Pro,no region,4,240,0.016666667
+S,23822,T,C,synonymous_variant,Leu754Leu,patientY,14,Leu,754,Leu,no region,4,240,0.016666667
+S,23914,A,G,synonymous_variant,Gln784Gln,patientY,14,Gln,784,Gln,no region,4,240,0.016666667
+S,23923,A,G,synonymous_variant,Gln787Gln,patientY,14,Gln,787,Gln,no region,4,240,0.016666667
+S,23947,A,C,missense_variant,Lys795Asn,patientY,14,Lys,795,Asn,fusion peptide,4,240,0.016666667
+S,23995,A,G,synonymous_variant,Lys811Lys,patientY,14,Lys,811,Lys,no region,4,240,0.016666667
+S,23997,C,T,missense_variant,Pro812Leu,patientY,14,Pro,812,Leu,no region,4,240,0.016666667
+S,23998,A,G,synonymous_variant,Pro812Pro,patientY,14,Pro,812,Pro,no region,4,240,0.016666667
+S,24001,C,T,synonymous_variant,Ser813Ser,patientY,14,Ser,813,Ser,no region,4,240,0.016666667
+S,24027,T,C,missense_variant,Leu822Pro,patientY,14,Leu,822,Pro,internal fusion peptide,4,240,0.016666667
+S,24199,G,A,synonymous_variant,Ala879Ala,patientY,14,Ala,879,Ala,no region,4,240,0.016666667
+S,24277,G,T,missense_variant,Arg905Ser,patientY,14,Arg,905,Ser,no region,4,240,0.016666667
+S,24349,T,C,synonymous_variant,Ser929Ser,patientY,14,Ser,929,Ser,heptad repeat 1,123,240,0.5125
+S,24367,A,G,synonymous_variant,Gln935Gln,patientY,14,Gln,935,Gln,no region,9,240,0.0375
+S,24370,C,A,missense_variant,Asp936Glu,patientY,14,Asp,936,Glu,no region,4,240,0.016666667
+S,24378,C,T,missense_variant,Ser939Phe,patientY,14,Ser,939,Phe,no region,64,240,0.266666667
+S,24379,T,C,synonymous_variant,Ser939Ser,patientY,14,Ser,939,Ser,no region,4,240,0.016666667
+S,24397,T,G,synonymous_variant,Leu945Leu,patientY,14,Leu,945,Leu,no region,4,240,0.016666667
+S,24463,C,T,synonymous_variant,Ser967Ser,patientY,14,Ser,967,Ser,no region,4,240,0.016666667
+S,24466,C,A,synonymous_variant,Ser968Ser,patientY,14,Ser,968,Ser,no region,4,240,0.016666667
+S,24504,T,C,missense_variant,Leu981Pro,patientY,14,Leu,981,Pro,no region,4,240,0.016666667
+S,24576,A,G,missense_variant,Gln1005Arg,patientY,14,Gln,1005,Arg,no region,4,240,0.016666667
+S,24579,C,T,missense_variant,Thr1006Ile,patientY,14,Thr,1006,Ile,no region,4,240,0.016666667
+S,24608,G,A,missense_variant,Ala1016Thr,patientY,14,Ala,1016,Thr,no region,4,240,0.016666667
+S,24706,T,C,synonymous_variant,His1048His,patientY,14,His,1048,His,no region,16,240,0.066666667
+S,24775,A,C,missense_variant,Gln1071His,patientY,14,Gln,1071,His,no region,4,240,0.016666667
+S,24776,G,A,missense_variant,Glu1072Lys,patientY,14,Glu,1072,Lys,no region,4,240,0.016666667
+S,24813,A,C,missense_variant,Asp1084Ala,patientY,14,Asp,1084,Ala,no region,4,240,0.016666667
+S,24820,A,G,synonymous_variant,Lys1086Lys,patientY,14,Lys,1086,Lys,no region,4,240,0.016666667
+S,24845,T,C,missense_variant,Phe1095Leu,patientY,14,Phe,1095,Leu,no region,4,240,0.016666667
+S,24881,A,G,missense_variant,Arg1107Gly,patientY,14,Arg,1107,Gly,no region,4,240,0.016666667
+S,24895,A,C,missense_variant,Glu1111Asp,patientY,14,Glu,1111,Asp,no region,4,240,0.016666667
+S,24912,C,T,missense_variant,Thr1117Ile,patientY,14,Thr,1117,Ile,no region,4,240,0.016666667
+S,24933,G,T,missense_variant,Gly1124Val,patientY,14,Gly,1124,Val,no region,4,240,0.016666667
+S,24960,T,C,missense_variant,Val1133Ala,patientY,14,Val,1133,Ala,no region,4,240,0.016666667
+S,24985,G,A,synonymous_variant,Leu1141Leu,patientY,14,Leu,1141,Leu,no region,4,240,0.016666667
+S,25006,C,T,synonymous_variant,Phe1148Phe,patientY,14,Phe,1148,Phe,no region,81,240,0.3375
+S,25016,T,C,synonymous_variant,Leu1152Leu,patientY,14,Leu,1152,Leu,no region,4,240,0.016666667
+S,25046,C,T,missense_variant,Pro1162Ser,patientY,14,Pro,1162,Ser,heptad repeat 2,16,240,0.066666667
+S,25048,A,T,synonymous_variant,Pro1162Pro,patientY,14,Pro,1162,Pro,heptad repeat 2,9,240,0.0375
+S,25063,T,C,synonymous_variant,Gly1167Gly,patientY,14,Gly,1167,Gly,heptad repeat 2,4,240,0.016666667
+S,25078,T,A,synonymous_variant,Ile1172Ile,patientY,14,Ile,1172,Ile,heptad repeat 2,4,240,0.016666667
+S,25092,T,A,missense_variant,Val1177Glu,patientY,14,Val,1177,Glu,heptad repeat 2,4,240,0.016666667
+S,25099,T,C,synonymous_variant,Ile1179Ile,patientY,14,Ile,1179,Ile,heptad repeat 2,4,240,0.016666667
+S,25162,C,A,synonymous_variant,Leu1200Leu,patientY,14,Leu,1200,Leu,heptad repeat 2,9,240,0.0375
+S,25163,C,A,missense_variant,Gln1201Lys,patientY,14,Gln,1201,Lys,heptad repeat 2,9,240,0.0375
+S,25181,G,T,stop_gained,Glu1207*,patientY,14,Glu,1207,,no region,4,240,0.016666667
+S,25184,C,T,stop_gained,Gln1208*,patientY,14,Gln,1208,,no region,4,240,0.016666667
+S,25201,A,G,synonymous_variant,Pro1213Pro,patientY,14,Pro,1213,Pro,no region,4,240,0.016666667
+S,25301,T,C,missense_variant,Cys1247Arg,patientY,14,Cys,1247,Arg,no region,4,240,0.016666667
+S,25344,C,T,missense_variant,Ser1261Phe,patientY,14,Ser,1261,Phe,no region,4,240,0.016666667
+S,25345,T,A,synonymous_variant,Ser1261Ser,patientY,14,Ser,1261,Ser,no region,4,240,0.016666667
+S,25346,G,C,missense_variant,Glu1262Gln,patientY,14,Glu,1262,Gln,no region,4,240,0.016666667
+S,25347,A,G,missense_variant,Glu1262Gly,patientY,14,Glu,1262,Gly,no region,4,240,0.016666667
+S,25348,G,A,synonymous_variant,Glu1262Glu,patientY,14,Glu,1262,Glu,no region,4,240,0.016666667
+ORF1ab,21249,G,A,synonymous_variant,Val6995Val,patientX,14,Val,6995,Val,Not Spike,4,240,0.016666667
+ORF1ab,21323,A,G,missense_variant,Tyr7020Cys,patientX,14,Tyr,7020,Cys,Not Spike,4,240,0.016666667
+ORF1ab,21332,A,G,missense_variant,His7023Arg,patientX,14,His,7023,Arg,Not Spike,4,240,0.016666667
+ORF1ab,21426,T,C,synonymous_variant,Gly7054Gly,patientX,14,Gly,7054,Gly,Not Spike,4,240,0.016666667
+ORF1ab,21479,T,C,missense_variant,Leu7072Pro,patientX,14,Leu,7072,Pro,Not Spike,4,240,0.016666667
+ORF1ab,21501,A,G,missense_variant,Ile7079Met,patientX,14,Ile,7079,Met,Not Spike,4,240,0.016666667
+ORF1ab,21517,A,G,missense_variant,Arg7085Gly,patientX,14,Arg,7085,Gly,Not Spike,4,240,0.016666667
+ORF1ab,21538,G,A,missense_variant,Val7092Ile,patientX,14,Val,7092,Ile,Not Spike,4,240,0.016666667
+S,21575,C,T,missense_variant,Leu5Phe,patientX,14,Leu,5,Phe,receptor binding motif,225,240,0.9375
+S,21600,G,T,missense_variant,Ser13Ile,patientX,14,Ser,13,Ile,NTD,240,240,1
+S,21619,A,G,synonymous_variant,Thr19Thr,patientX,14,Thr,19,Thr,NTD,4,240,0.016666667
+S,21624,G,A,missense_variant,Arg21Lys,patientX,14,Arg,21,Lys,NTD,4,240,0.016666667
+S,21639,C,T,missense_variant,Pro26Leu,patientX,14,Pro,26,Leu,NTD,25,240,0.104166667
+S,21718,G,A,synonymous_variant,Gln52Gln,patientX,14,Gln,52,Gln,RBD,4,240,0.016666667
+S,21724,G,T,missense_variant,Leu54Phe,patientX,14,Leu,54,Phe,RBD,4,240,0.016666667
+S,21730,A,G,synonymous_variant,Leu56Leu,patientX,14,Leu,56,Leu,no region,12,240,0.704166667
+S,21742,C,T,synonymous_variant,Ser60Ser,patientX,14,Ser,60,Ser,no region,16,240,0.066666667
+S,21762,C,T,missense_variant,Ala67Val,patientX,14,Ala,67,Val,no region,4,240,0.016666667
+S,21773,T,C,missense_variant,Ser71Pro,patientX,14,Ser,71,Pro,no region,53,240,0.016666667
+S,21781,C,A,synonymous_variant,Thr73Thr,patientX,14,Thr,73,Thr,no region,4,240,0.016666667
+S,21846,C,T,missense_variant,Thr95Ile,patientX,14,Thr,95,Ile,no region,81,240,0.3375
+S,21849,A,G,missense_variant,Glu96Gly,patientX,14,Glu,96,Gly,no region,4,240,0.016666667
+S,21895,T,C,synonymous_variant,Asp111Asp,patientX,14,Asp,111,Asp,no region,4,240,0.016666667
+S,21920,G,T,missense_variant,Val120Phe,patientX,14,Val,120,Phe,heptad repeat 2,4,240,0.016666667
+S,21980,T,C,missense_variant,Phe140Leu,patientX,14,Phe,140,Leu,NTD,63,240,0.016666667
+S,22017,G,A,stop_gained,Trp152*,patientX,14,Trp,152,,NTD,4,240,0.016666667
+S,22018,G,C,missense_variant,Trp152Cys,patientX,14,Trp,152,Cys,NTD,4,240,0.016666667
+S,22018,G,T,missense_variant,Trp152Cys,patientX,14,Trp,152,Cys,NTD,240,240,1
+S,22029,A,G,missense_variant,Glu156Gly,patientX,14,Glu,156,Gly,NTD,9,240,0.0375
+S,22051,G,A,synonymous_variant,Ala163Ala,patientX,14,Ala,163,Ala,NTD,4,240,0.016666667
+S,22061,A,T,missense_variant,Thr167Ser,patientX,14,Thr,167,Ser,NTD,4,240,0.016666667
+S,22062,C,T,missense_variant,Thr167Ile,patientX,14,Thr,167,Ile,NTD,4,240,0.016666667
+S,22084,T,C,synonymous_variant,Pro174Pro,patientX,14,Pro,174,Pro,NTD,4,240,0.016666667
+S,22103,G,A,missense_variant,Gly181Arg,patientX,14,Gly,181,Arg,NTD,4,240,0.016666667
+S,22104,G,A,missense_variant,Gly181Glu,patientX,14,Gly,181,Glu,NTD,4,240,0.016666667
+S,22107,A,G,missense_variant,Lys182Arg,patientX,14,Lys,182,Arg,NTD,4,240,0.016666667
+S,22141,G,T,synonymous_variant,Val193Val,patientX,14,Val,193,Val,NTD,4,240,0.016666667
+S,22188,C,A,missense_variant,Pro209His,patientX,14,Pro,209,His,NTD,4,240,0.016666667
+S,22205,G,C,missense_variant,Asp215His,patientX,14,Asp,215,His,NTD,4,240,0.016666667
+S,22221,T,C,missense_variant,Phe220Ser,patientX,14,Phe,220,Ser,NTD,4,240,0.016666667
+S,22253,A,G,missense_variant,Ile231Val,patientX,14,Ile,231,Val,NTD,4,240,0.016666667
+S,22263,A,G,missense_variant,Asn234Ser,patientX,14,Asn,234,Ser,NTD,4,240,0.016666667
+S,22313,C,T,missense_variant,Pro251Ser,patientX,14,Pro,251,Ser,NTD,4,240,0.016666667
+S,22326,C,T,missense_variant,Ser255Phe,patientX,14,Ser,255,Phe,NTD,49,240,0.204166667
+S,22385,T,G,missense_variant,Phe275Val,patientX,14,Phe,275,Val,NTD,4,240,0.016666667
+S,22413,C,T,missense_variant,Thr284Ile,patientX,14,Thr,284,Ile,NTD,49,240,0.204166667
+S,22447,T,C,synonymous_variant,Pro295Pro,patientX,14,Pro,295,Pro,NTD,65,240,0.016666667
+S,22458,C,T,missense_variant,Thr299Ile,patientX,14,Thr,299,Ile,NTD,81,240,0.3375
+S,22463,T,C,missense_variant,Cys301Arg,patientX,14,Cys,301,Arg,NTD,4,240,0.016666667
+S,22471,G,A,synonymous_variant,Leu303Leu,patientX,14,Leu,303,Leu,NTD,4,240,0.016666667
+S,22480,C,T,synonymous_variant,Phe306Phe,patientX,14,Phe,306,Phe,no region,4,240,0.016666667
+S,22487,G,C,missense_variant,Glu309Gln,patientX,14,Glu,309,Gln,no region,4,240,0.016666667
+S,22706,G,A,missense_variant,Val382Met,patientX,14,Val,382,Met,RBD,4,240,0.016666667
+S,22725,A,G,missense_variant,Asn388Ser,patientX,14,Asn,388,Ser,RBD,4,240,0.016666667
+S,22738,T,C,synonymous_variant,Phe392Phe,patientX,14,Phe,392,Phe,RBD,4,240,0.016666667
+S,22784,A,C,synonymous_variant,Arg408Arg,patientX,14,Arg,408,Arg,RBD,4,240,0.016666667
+S,22786,A,G,synonymous_variant,Arg408Arg,patientX,14,Arg,408,Arg,RBD,4,240,0.016666667
+S,22792,C,T,synonymous_variant,Ile410Ile,patientX,14,Ile,410,Ile,RBD,75,240,0.016666667
+S,22834,A,G,synonymous_variant,Lys424Lys,patientX,14,Lys,424,Lys,RBD,4,240,0.016666667
+S,22850,A,G,missense_variant,Thr430Ala,patientX,14,Thr,430,Ala,RBD,4,240,0.016666667
+S,22870,G,A,stop_gained,Trp436*,patientX,14,Trp,436,,RBD,4,240,0.016666667
+S,22917,T,G,missense_variant,Leu452Arg,patientX,14,Leu,452,Arg,receptor binding motif,240,240,1
+S,23017,T,C,synonymous_variant,Gly485Gly,patientX,14,Gly,485,Gly,receptor binding motif,9,240,0.0375
+S,23060,A,T,missense_variant,Thr500Ser,patientX,14,Thr,500,Ser,receptor binding motif,4,240,0.016666667
+S,23104,T,C,synonymous_variant,Ser514Ser,patientX,14,Ser,514,Ser,RBD,9,240,0.0375
+S,23112,T,C,missense_variant,Leu517Pro,patientX,14,Leu,517,Pro,RBD,4,240,0.016666667
+S,23155,T,C,synonymous_variant,Thr531Thr,patientX,14,Thr,531,Thr,RBD,240,240,1
+S,23185,C,T,synonymous_variant,Phe541Phe,patientX,14,Phe,541,Phe,RBD,4,240,0.016666667
+S,23202,C,T,missense_variant,Thr547Ile,patientX,14,Thr,547,Ile,no region,9,240,0.0375
+S,23205,G,A,missense_variant,Gly548Asp,patientX,14,Gly,548,Asp,no region,4,240,0.016666667
+S,23229,A,C,missense_variant,Asn556Thr,patientX,14,Asn,556,Thr,no region,4,240,0.016666667
+S,23270,G,A,missense_variant,Ala570Thr,patientX,14,Ala,570,Thr,no region,4,240,0.016666667
+S,23301,A,G,missense_variant,Gln580Arg,patientX,14,Gln,580,Arg,no region,4,240,0.016666667
+S,23403,A,G,missense_variant,Asp614Gly,patientX,14,Asp,614,Gly,no region,240,240,1
+S,23411,T,G,missense_variant,Cys617Gly,patientX,14,Cys,617,Gly,no region,73,240,0.016666667
+S,23416,A,T,synonymous_variant,Thr618Thr,patientX,14,Thr,618,Thr,no region,4,240,0.016666667
+S,23421,T,C,missense_variant,Val620Ala,patientX,14,Val,620,Ala,no region,4,240,0.016666667
+S,23464,T,C,synonymous_variant,Arg634Arg,patientX,14,Arg,634,Arg,no region,4,240,0.016666667
+S,23492,C,T,stop_gained,Gln644*,patientX,14,Gln,644,,no region,4,240,0.016666667
+S,23525,C,T,missense_variant,His655Tyr,patientX,14,His,655,Tyr,no region,4,240,0.016666667
+S,23539,A,G,synonymous_variant,Ser659Ser,patientX,14,Ser,659,Ser,no region,4,240,0.016666667
+S,23553,T,C,missense_variant,Ile664Thr,patientX,14,Ile,664,Thr,no region,4,240,0.016666667
+S,23556,C,T,missense_variant,Pro665Leu,patientX,14,Pro,665,Leu,no region,4,240,0.016666667
+S,23585,C,T,stop_gained,Gln675*,patientX,14,Gln,675,,S1/S2 cleavage region,4,240,0.016666667
+S,23593,G,C,missense_variant,Gln677His,patientX,14,Gln,677,His,S1/S2 cleavage region,36,240,0.15
+S,23632,A,G,synonymous_variant,Gln690Gln,patientX,14,Gln,690,Gln,S1/S2 cleavage region,4,240,0.016666667
+S,23664,C,T,missense_variant,Ala701Val,patientX,14,Ala,701,Val,S1/S2 cleavage region,43,240,0.179166667
+S,23683,C,T,synonymous_variant,Tyr707Tyr,patientX,14,Tyr,707,Tyr,S1/S2 cleavage region,4,240,0.016666667
+S,23693,T,C,missense_variant,Ser711Pro,patientX,14,Ser,711,Pro,no region,4,240,0.016666667
+S,23717,A,G,missense_variant,Thr719Ala,patientX,14,Thr,719,Ala,no region,4,240,0.016666667
+S,23752,T,C,synonymous_variant,Ser730Ser,patientX,14,Ser,730,Ser,no region,4,240,0.016666667
+S,23766,C,G,stop_gained,Ser735*,patientX,14,Ser,735,,no region,4,240,0.016666667
+S,23817,T,C,missense_variant,Leu752Pro,patientX,14,Leu,752,Pro,no region,4,240,0.016666667
+S,23822,T,C,synonymous_variant,Leu754Leu,patientX,14,Leu,754,Leu,no region,4,240,0.016666667
+S,23914,A,G,synonymous_variant,Gln784Gln,patientX,14,Gln,784,Gln,no region,4,240,0.016666667
+S,23923,A,G,synonymous_variant,Gln787Gln,patientX,14,Gln,787,Gln,no region,4,240,0.016666667
+S,23947,A,C,missense_variant,Lys795Asn,patientX,14,Lys,795,Asn,fusion peptide,75,240,0.016666667
+S,23995,A,G,synonymous_variant,Lys811Lys,patientX,14,Lys,811,Lys,no region,4,240,0.016666667
+S,23997,C,T,missense_variant,Pro812Leu,patientX,14,Pro,812,Leu,no region,4,240,0.016666667
+S,23998,A,G,synonymous_variant,Pro812Pro,patientX,14,Pro,812,Pro,no region,4,240,0.016666667
+S,24001,C,T,synonymous_variant,Ser813Ser,patientX,14,Ser,813,Ser,no region,4,240,0.016666667
+S,24027,T,C,missense_variant,Leu822Pro,patientX,14,Leu,822,Pro,internal fusion peptide,4,240,0.016666667
+S,24199,G,A,synonymous_variant,Ala879Ala,patientX,14,Ala,879,Ala,no region,4,240,0.016666667
+S,24277,G,T,missense_variant,Arg905Ser,patientX,14,Arg,905,Ser,no region,4,240,0.016666667
+S,24349,T,C,synonymous_variant,Ser929Ser,patientX,14,Ser,929,Ser,heptad repeat 1,123,240,0.5125
+S,24367,A,G,synonymous_variant,Gln935Gln,patientX,14,Gln,935,Gln,no region,9,240,0.0375
+S,24370,C,A,missense_variant,Asp936Glu,patientX,14,Asp,936,Glu,no region,4,240,0.016666667
+S,24378,C,T,missense_variant,Ser939Phe,patientX,14,Ser,939,Phe,no region,64,240,0.266666667
+S,24379,T,C,synonymous_variant,Ser939Ser,patientX,14,Ser,939,Ser,no region,4,240,0.016666667
+S,24397,T,G,synonymous_variant,Leu945Leu,patientX,14,Leu,945,Leu,no region,4,240,0.016666667
+S,24463,C,T,synonymous_variant,Ser967Ser,patientX,14,Ser,967,Ser,no region,4,240,0.016666667
+S,24466,C,A,synonymous_variant,Ser968Ser,patientX,14,Ser,968,Ser,no region,4,240,0.016666667
+S,24504,T,C,missense_variant,Leu981Pro,patientX,14,Leu,981,Pro,no region,4,240,0.016666667
+S,24576,A,G,missense_variant,Gln1005Arg,patientX,14,Gln,1005,Arg,no region,4,240,0.016666667
+S,24579,C,T,missense_variant,Thr1006Ile,patientX,14,Thr,1006,Ile,no region,4,240,0.016666667
+S,24608,G,A,missense_variant,Ala1016Thr,patientX,14,Ala,1016,Thr,no region,4,240,0.016666667
+S,24706,T,C,synonymous_variant,His1048His,patientX,14,His,1048,His,no region,16,240,0.066666667
+S,24775,A,C,missense_variant,Gln1071His,patientX,14,Gln,1071,His,no region,4,240,0.016666667
+S,24776,G,A,missense_variant,Glu1072Lys,patientX,14,Glu,1072,Lys,no region,4,240,0.016666667
+S,24813,A,C,missense_variant,Asp1084Ala,patientX,14,Asp,1084,Ala,no region,4,240,0.016666667
+S,24820,A,G,synonymous_variant,Lys1086Lys,patientX,14,Lys,1086,Lys,no region,4,240,0.016666667
+S,24845,T,C,missense_variant,Phe1095Leu,patientX,14,Phe,1095,Leu,no region,4,240,0.016666667
+S,24881,A,G,missense_variant,Arg1107Gly,patientX,14,Arg,1107,Gly,no region,4,240,0.016666667
+S,24895,A,C,missense_variant,Glu1111Asp,patientX,14,Glu,1111,Asp,no region,4,240,0.016666667
+S,24912,C,T,missense_variant,Thr1117Ile,patientX,14,Thr,1117,Ile,no region,4,240,0.016666667
+S,24933,G,T,missense_variant,Gly1124Val,patientX,14,Gly,1124,Val,no region,4,240,0.016666667
+S,24960,T,C,missense_variant,Val1133Ala,patientX,14,Val,1133,Ala,no region,4,240,0.016666667
+S,24985,G,A,synonymous_variant,Leu1141Leu,patientX,14,Leu,1141,Leu,no region,4,240,0.016666667
+S,25006,C,T,synonymous_variant,Phe1148Phe,patientX,14,Phe,1148,Phe,no region,81,240,0.3375
+S,25016,T,C,synonymous_variant,Leu1152Leu,patientX,14,Leu,1152,Leu,no region,4,240,0.016666667
+S,25046,C,T,missense_variant,Pro1162Ser,patientX,14,Pro,1162,Ser,heptad repeat 2,16,240,0.066666667
+S,25048,A,T,synonymous_variant,Pro1162Pro,patientX,14,Pro,1162,Pro,heptad repeat 2,9,240,0.0375
+S,25063,T,C,synonymous_variant,Gly1167Gly,patientX,14,Gly,1167,Gly,heptad repeat 2,4,240,0.016666667
+S,25078,T,A,synonymous_variant,Ile1172Ile,patientX,14,Ile,1172,Ile,heptad repeat 2,4,240,0.016666667
+S,25092,T,A,missense_variant,Val1177Glu,patientX,14,Val,1177,Glu,heptad repeat 2,4,240,0.016666667
+S,25099,T,C,synonymous_variant,Ile1179Ile,patientX,14,Ile,1179,Ile,heptad repeat 2,4,240,0.016666667
+S,25162,C,A,synonymous_variant,Leu1200Leu,patientX,14,Leu,1200,Leu,heptad repeat 2,9,240,0.0375
+S,25163,C,A,missense_variant,Gln1201Lys,patientX,14,Gln,1201,Lys,heptad repeat 2,9,240,0.0375
+S,25181,G,T,stop_gained,Glu1207*,patientX,14,Glu,1207,,no region,4,240,0.016666667
+S,25184,C,T,stop_gained,Gln1208*,patientX,14,Gln,1208,,no region,4,240,0.016666667
+S,25201,A,G,synonymous_variant,Pro1213Pro,patientX,14,Pro,1213,Pro,no region,4,240,0.016666667
+S,25301,T,C,missense_variant,Cys1247Arg,patientX,14,Cys,1247,Arg,no region,4,240,0.016666667
+S,25344,C,T,missense_variant,Ser1261Phe,patientX,14,Ser,1261,Phe,no region,4,240,0.016666667
+S,25345,T,A,synonymous_variant,Ser1261Ser,patientX,14,Ser,1261,Ser,no region,4,240,0.016666667
+S,25346,G,C,missense_variant,Glu1262Gln,patientX,14,Glu,1262,Gln,no region,4,240,0.016666667
+S,25347,A,G,missense_variant,Glu1262Gly,patientX,14,Glu,1262,Gly,no region,4,240,0.016666667
+S,25348,G,A,synonymous_variant,Glu1262Glu,patientX,14,Glu,1262,Glu,no region,4,240,0.016666667
+S,23532,G,A,synonymous_variant,Glu1262Tet,patientX,14,Glu,1033,Tet,no region,6,240,0.025
