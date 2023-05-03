@@ -1,0 +1,23 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region YP_009724390.1 1 1273
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+YP_009724390.1	RefSeq	region	1	1273	.	+	.	ID=YP_009724390.1:1..1273;Dbxref=taxon:2697049;collection-date=Dec-2019;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=Wuhan-Hu-1;mol_type=unassigned;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+YP_009724390.1	RefSeq	polypeptide	1	1273	.	+	.	ID=id-YP_009724390.1:1..1273;calculated_mol_wt=141048;gbkey=Prot;product=surface glycoprotein
+YP_009724390.1	RefSeq	biological_region	13	304	.	+	.	ID=id-YP_009724390.1:13..304;Dbxref=CDD:394950;Name=SARS-CoV-like_Spike_S1_NTD;Note=N-terminal domain of the S1 subunit of the Spike (S) protein from Severe acute respiratory syndrome coronavirus and related betacoronaviruses in the B lineage;gbkey=Region
+YP_009724390.1	RefSeq	region	38	283	.	+	.	ID=id-YP_009724390.1:38..283;Dbxref=CDD:394950;Note=trimer interface [polypeptide binding];gbkey=Site;is_ordered=true
+YP_009724390.1	RefSeq	biological_region	319	541	.	+	.	ID=id-YP_009724390.1:319..541;Dbxref=CDD:394827;Name=SARS-CoV-2_Spike_S1_RBD;Note=receptor-binding domain of the S1 subunit of severe acute respiratory syndrome coronavirus 2 Spike (S) protein;gbkey=Region
+YP_009724390.1	RefSeq	region	319	521	.	+	.	ID=id-YP_009724390.1:319..521;Dbxref=CDD:394827;Note=trimer interface [polypeptide binding];gbkey=Site;is_ordered=true
+YP_009724390.1	RefSeq	region	369	519	.	+	.	ID=id-YP_009724390.1:369..519;Dbxref=CDD:394827;Note=cryptic epitope [polypeptide binding];gbkey=Site;is_ordered=true
+YP_009724390.1	RefSeq	region	417	505	.	+	.	ID=id-YP_009724390.1:417..505;Dbxref=CDD:394827;Note=receptor binding site [polypeptide binding];gbkey=Site;is_ordered=true
+YP_009724390.1	RefSeq	region	438	508	.	+	.	ID=id-YP_009724390.1:438..508;Dbxref=CDD:394827;Note=receptor binding motif;gbkey=Site
+YP_009724390.1	RefSeq	biological_region	543	1208	.	+	.	ID=id-YP_009724390.1:543..1208;Dbxref=CDD:411965;Name=SARS-CoV-like_Spike_SD1-2_S1-S2_S2;Note=SD-1 and SD-2 subdomains%2C the S1/S2 cleavage region%2C and the S2 fusion subunit of the spike (S) glycoprotein from SARS-CoV-2 (COVID-19) and related betacoronaviruses in the B lineage;gbkey=Region
+YP_009724390.1	RefSeq	region	603	1194	.	+	.	ID=id-YP_009724390.1:603..1194;Dbxref=CDD:411965;Note=N-linked glycosylation sites [posttranslational modification];gbkey=Site;is_ordered=true
+YP_009724390.1	RefSeq	region	672	709	.	+	.	ID=id-YP_009724390.1:672..709;Dbxref=CDD:411965;Note=S1/S2 cleavage region;gbkey=Site;is_ordered=true
+YP_009724390.1	RefSeq	region	685	686	.	+	.	ID=id-YP_009724390.1:685..686;Dbxref=CDD:411965;Note=S1/S2 furin cleavage site;gbkey=Site
+YP_009724390.1	RefSeq	region	788	806	.	+	.	ID=id-YP_009724390.1:788..806;Dbxref=CDD:411965;Note=fusion peptide;gbkey=Site
+YP_009724390.1	RefSeq	region	816	833	.	+	.	ID=id-YP_009724390.1:816..833;Dbxref=CDD:411965;Note=internal fusion peptide;gbkey=Site
+YP_009724390.1	RefSeq	biological_region	918	983	.	+	.	ID=id-YP_009724390.1:918..983;Dbxref=CDD:411965;Name=heptad repeat 1;Note=heptad repeat 1 [structural motif];gbkey=Region
+YP_009724390.1	RefSeq	biological_region	1162	1203	.	+	.	ID=id-YP_009724390.1:1162..1203;Dbxref=CDD:411965;Name=heptad repeat 2;Note=heptad repeat 2 [structural motif];gbkey=Region
+
