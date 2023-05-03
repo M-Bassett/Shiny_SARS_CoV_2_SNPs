@@ -538,7 +538,7 @@ testxx4 <- testxx3
 
 
 # TESTING WITH A SIMILAR DF
-test_14 <- as.data.frame(read.csv("C:/Users/m.bassett/Dropbox (UFL)/coding/R/sars_cov_2/sc2_visualizer/sc2_time_heatmap/my_tests/test_csv/test_day_14_v3.csv"))
+test_14 <- as.data.frame(read.csv("test_day_14_v3.csv"))
 test_14$Nucleotide <- paste(test_14$REF, test_14$POS, test_14$ALT)
 
 testxx4$Nucleotide <- paste(testxx4$REF, testxx4$POS, testxx4$ALT)
@@ -559,10 +559,10 @@ list_patient <- unique(test_nuclear$patient)
 testy <- test_nuclear
 
 
-temp324 <- as.data.frame(read.csv("C:/Users/m.bassett/Dropbox (UFL)/coding/R/sars_cov_2/sc2_visualizer/sc2_time_heatmap/my_tests/test_csv/test_gpt.csv"))
+temp324 <- as.data.frame(read.csv("df_test.csv"))
 dput(temp324)
 
-temp325 <- as.data.frame(read.csv("C:/Users/m.bassett/Dropbox (UFL)/coding/R/sars_cov_2/sc2_visualizer/sc2_time_heatmap/my_tests/test_csv/final_df_test.csv"))
+temp325 <- as.data.frame(read.csv("final_df_test.csv"))
 dput(temp325)
 
 
